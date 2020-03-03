@@ -8,3 +8,6 @@ Solved. Using arrays and for loops, I went at this solution with a brute force a
 
 ## AddTwoNumbers
 Solved. Using if statements and having the function call itself. 108ms with 27.9MB memory. Faster than 76.71% of submissions with less memory usage than 9.09%.  
+
+## 1342. Number of Steps to Reduce a Number to Zero
+Solved. Using a while loop to reduce the number and a switch case to check if number is odd or even. Faster than 65.53% with less memory usage than 100% of submissions. 
