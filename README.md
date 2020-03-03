@@ -11,3 +11,6 @@ Solved. Using if statements and having the function call itself. 108ms with 27.9
 
 ## 1342. Number of Steps to Reduce a Number to Zero
 Solved. Using a while loop to reduce the number and a switch case to check if number is odd or even. 36ms with 14.6MB of memory. Faster than 90.75% with less memory usage than 100% of submissions. 
+
+## 1365. How Many Numbers Are Smaller Than the Current Number 
+Solved. Using nested for loop. 244ms with 31.6MB of memory. Faster than 83.41% with less memory usage than 100% of submissions.  
