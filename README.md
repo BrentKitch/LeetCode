@@ -10,4 +10,4 @@ Solved. Using arrays and for loops, I went at this solution with a brute force a
 Solved. Using if statements and having the function call itself. 108ms with 27.9MB memory. Faster than 76.71% of submissions with less memory usage than 9.09%.  
 
 ## 1342. Number of Steps to Reduce a Number to Zero
-Solved. Using a while loop to reduce the number and a switch case to check if number is odd or even. 36ms with 14.6MB of memory Faster than 65.53% with less memory usage than 100% of submissions. 
+Solved. Using a while loop to reduce the number and a switch case to check if number is odd or even. 36ms with 14.6MB of memory Faster than 90.75% with less memory usage than 100% of submissions. 
